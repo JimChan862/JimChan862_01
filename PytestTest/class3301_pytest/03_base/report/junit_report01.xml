@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="14" skipped="0" tests="23" time="0.142" timestamp="2024-11-20T10:20:55.482723+08:00" hostname="BM-202201050829"><testcase classname="doc.test_112233" name="test02" time="0.001" /><testcase classname="doc.test_112233.TestDemo" name="test_case_03" time="0.000" /><testcase classname="test_assert" name="test_kkk_01" time="0.000"><failure message="assert 1 == 2">def test_kkk_01():
+        print('kkk')
+        # assert  "预期结果" == "实际结果"
+&gt;       assert 1 == 2
+E       assert 1 == 2
+
+test_assert.py:13: AssertionError</failure></testcase><testcase classname="test_assert" name="test_kkk_02" time="0.000"><failure message="assert 1 == 2">def test_kkk_02():
+        print('kkk')
+&gt;       assert 1==2
+E       assert 1 == 2
+
+test_assert.py:30: AssertionError</failure></testcase><testcase classname="test_assert" name="test_zzz_03" time="0.000" /><testcase classname="test_many" name="test_case01" time="0.000" /><testcase classname="test_many" name="test_case02" time="0.000"><failure message="assert 1 == 2">def test_case02():
+&gt;       assert 1==2
+E       assert 1 == 2
+
+test_many.py:10: AssertionError</failure></testcase><testcase classname="test_many" name="test_case03" time="0.000"><failure message="assert 1 == 3">def test_case03():
+&gt;       assert 1==3
+E       assert 1 == 3
+
+test_many.py:13: AssertionError</failure></testcase><testcase classname="test_many" name="test_case04" time="0.000"><failure message="assert 1 == 4">def test_case04():
+&gt;       assert 1==4
+E       assert 1 == 4
+
+test_many.py:16: AssertionError</failure></testcase><testcase classname="test_many" name="test_case05" time="0.000"><failure message="assert 1 == 5">def test_case05():
+&gt;       assert 1==5
+E       assert 1 == 5
+
+test_many.py:19: AssertionError</failure></testcase><testcase classname="test_many" name="test_case06" time="0.000"><failure message="assert 1 == 6">def test_case06():
+&gt;       assert 1==6
+E       assert 1 == 6
+
+test_many.py:22: AssertionError</failure></testcase><testcase classname="test_many" name="test_case07" time="0.000"><failure message="assert 1 == 7">def test_case07():
+&gt;       assert 1==7
+E       assert 1 == 7
+
+test_many.py:25: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case01" time="0.000" /><testcase classname="test_rerun" name="test_case02" time="0.000"><failure message="assert 1 == 2">def test_case02():
+&gt;       assert 1==2
+E       assert 1 == 2
+
+test_rerun.py:10: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case03" time="0.000"><failure message="assert 1 == 3">def test_case03():
+&gt;       assert 1==3
+E       assert 1 == 3
+
+test_rerun.py:13: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case04" time="0.000"><failure message="assert 1 == 4">def test_case04():
+&gt;       assert 1==4
+E       assert 1 == 4
+
+test_rerun.py:16: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case05" time="0.000"><failure message="assert 1 == 5">def test_case05():
+&gt;       assert 1==5
+E       assert 1 == 5
+
+test_rerun.py:19: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case06" time="0.000"><failure message="assert 1 == 6">def test_case06():
+&gt;       assert 1==6
+E       assert 1 == 6
+
+test_rerun.py:22: AssertionError</failure></testcase><testcase classname="test_rerun" name="test_case07" time="0.000"><failure message="assert 1 == 7">def test_case07():
+&gt;       assert 1==7
+E       assert 1 == 7
+
+test_rerun.py:25: AssertionError</failure></testcase><testcase classname="test_setup01" name="test01" time="0.000" /><testcase classname="test_setup01" name="test02" time="0.000" /><testcase classname="test_setup02.TestCase" name="test01" time="0.000" /><testcase classname="test_setup02.TestCase" name="test02" time="0.000" /></testsuite></testsuites>

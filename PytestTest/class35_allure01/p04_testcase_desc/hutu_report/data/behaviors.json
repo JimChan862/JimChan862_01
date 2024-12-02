@@ -1,0 +1,68 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "CRM后台系统：UI自动化",
+    "children" : [ {
+      "name" : "编辑分类文章",
+      "children" : [ {
+        "name" : "文章编辑",
+        "children" : [ {
+          "name" : "编辑文章分类，重复保存，保存失败",
+          "uid" : "9c314ee6feb1c49d",
+          "parentUid" : "76b8ee0fe36824d935da230cb05071c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1653399206847,
+            "stop" : 1653399206848,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "76b8ee0fe36824d935da230cb05071c9"
+      }, {
+        "name" : "商品查询",
+        "children" : [ {
+          "name" : "查询可用的商品",
+          "uid" : "b7b15155f6396402",
+          "parentUid" : "a1234c1320d650fe96144f46b6d99575",
+          "status" : "passed",
+          "time" : {
+            "start" : 1653399206852,
+            "stop" : 1653399206852,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a1234c1320d650fe96144f46b6d99575"
+      } ],
+      "uid" : "6e81d05b0f7445310c58e38f030539a6"
+    }, {
+      "name" : "人员管理",
+      "children" : [ {
+        "name" : "测试场景二",
+        "children" : [ {
+          "name" : "test_case_3",
+          "uid" : "23a8f27f7b4945a4",
+          "parentUid" : "c78bd57aeaad888d8bcd60e8d945688d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1653399206856,
+            "stop" : 1653399206856,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c78bd57aeaad888d8bcd60e8d945688d"
+      } ],
+      "uid" : "f0a7316ccd7ed38f66b09d63067049da"
+    } ],
+    "uid" : "b8d70a801c14297d128ad4a8da153a1d"
+  } ]
+}

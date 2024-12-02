@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b7b15155f6396402",
+  "name" : "查询可用的商品",
+  "time" : {
+    "start" : 1653399206852,
+    "stop" : 1653399206852,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c314ee6feb1c49d",
+  "name" : "编辑文章分类，重复保存，保存失败",
+  "time" : {
+    "start" : 1653399206847,
+    "stop" : 1653399206848,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "23a8f27f7b4945a4",
+  "name" : "test_case_3",
+  "time" : {
+    "start" : 1653399206856,
+    "stop" : 1653399206856,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

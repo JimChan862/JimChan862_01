@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure",
+    "children" : [ {
+      "name" : "TestEditPage",
+      "children" : [ {
+        "name" : "编辑文章分类，重复保存，保存失败",
+        "uid" : "9c314ee6feb1c49d",
+        "parentUid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206847,
+          "stop" : 1653399206848,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询可用的商品",
+        "uid" : "b7b15155f6396402",
+        "parentUid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206852,
+          "stop" : 1653399206852,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2"
+    }, {
+      "name" : "TestCase02",
+      "children" : [ {
+        "name" : "test_case_3",
+        "uid" : "23a8f27f7b4945a4",
+        "parentUid" : "9d394306762169f6a7d8d203d56863d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206856,
+          "stop" : 1653399206856,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d394306762169f6a7d8d203d56863d9"
+    } ],
+    "uid" : "fbee53df8487942ba5333ea9eebb3863"
+  } ]
+}

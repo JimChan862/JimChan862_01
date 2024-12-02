@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure_step",
+    "children" : [ {
+      "name" : "测试购物流程",
+      "uid" : "438be5ea3fc059f0",
+      "parentUid" : "31d9eb38be8807f8021658fda9ce7eeb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653400534970,
+        "stop" : 1653400534971,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "31d9eb38be8807f8021658fda9ce7eeb"
+  } ]
+}

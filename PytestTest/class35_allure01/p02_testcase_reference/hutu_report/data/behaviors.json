@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "编辑分类文章",
+    "children" : [ {
+      "name" : "文章编辑",
+      "children" : [ {
+        "name" : "编辑文章分类，重复保存，保存失败",
+        "uid" : "a18c4f95c46ac3e7",
+        "parentUid" : "eb06b5bec191e94164ad50e9d048694a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653397350892,
+          "stop" : 1653397350893,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb06b5bec191e94164ad50e9d048694a"
+    }, {
+      "name" : "test_2",
+      "uid" : "c6d1ac80b2cd3542",
+      "parentUid" : "0fbeb49df3e973d1b716c62b94b53b9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653397350896,
+        "stop" : 1653397350897,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0fbeb49df3e973d1b716c62b94b53b9f"
+  } ]
+}

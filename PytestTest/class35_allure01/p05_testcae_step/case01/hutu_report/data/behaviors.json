@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "购物模块",
+    "children" : [ {
+      "name" : "测试购物流程",
+      "uid" : "438be5ea3fc059f0",
+      "parentUid" : "5eae0680c8f6441d821d5a94ad24bbf5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653400534970,
+        "stop" : 1653400534971,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5eae0680c8f6441d821d5a94ad24bbf5"
+  } ]
+}

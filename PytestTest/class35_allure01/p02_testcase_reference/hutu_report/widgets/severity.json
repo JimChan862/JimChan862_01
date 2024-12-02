@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c6d1ac80b2cd3542",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1653397350896,
+    "stop" : 1653397350897,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a18c4f95c46ac3e7",
+  "name" : "编辑文章分类，重复保存，保存失败",
+  "time" : {
+    "start" : 1653397350892,
+    "stop" : 1653397350893,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

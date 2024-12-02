@@ -1,0 +1,9 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue May 24 21:55:34 CST 2022","Tue May 24 21:55:34 CST 2022","1","","test_allure_step","","","","测试购物流程","
+        用例步骤：
+        1.登陆
+        2.浏览商品
+        3.添加购物车
+        4.生成订单
+        5.支付成功
+    "

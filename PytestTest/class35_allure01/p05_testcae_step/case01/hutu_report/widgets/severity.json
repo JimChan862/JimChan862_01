@@ -1,0 +1,11 @@
+[ {
+  "uid" : "438be5ea3fc059f0",
+  "name" : "测试购物流程",
+  "time" : {
+    "start" : 1653400534970,
+    "stop" : 1653400534971,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

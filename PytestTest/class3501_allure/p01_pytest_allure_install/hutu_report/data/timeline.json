@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-1N60V720",
+    "children" : [ {
+      "name" : "28120-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "7923c59e1a7cbdfe",
+        "parentUid" : "16bd182de44f1b4f84f2d2213de7a26c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732725104663,
+          "stop" : 1732725104664,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "2342e9b8718a7dfc",
+        "parentUid" : "16bd182de44f1b4f84f2d2213de7a26c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732725104666,
+          "stop" : 1732725104667,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16bd182de44f1b4f84f2d2213de7a26c"
+    } ],
+    "uid" : "ae456b3c814538e71e5fd8b3e0a3e72d"
+  } ]
+}

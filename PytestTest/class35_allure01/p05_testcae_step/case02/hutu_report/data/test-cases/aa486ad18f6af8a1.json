@@ -1,0 +1,169 @@
+{
+  "uid" : "aa486ad18f6af8a1",
+  "name" : "测试购物流程",
+  "fullName" : "test_allure_step#test_shopping",
+  "historyId" : "ccb1aedf03c405c5e83b15c3ae26cd6e",
+  "time" : {
+    "start" : 1653400825095,
+    "stop" : 1653400825097,
+    "duration" : 2
+  },
+  "description" : "\n        用例步骤：\n        1.登陆\n        2.浏览商品\n        3.添加购物车\n        4.生成订单\n        5.支付成功\n    ",
+  "descriptionHtml" : "<pre><code>    用例步骤：\n    1.登陆\n    2.浏览商品\n    3.添加购物车\n    4.生成订单\n    5.支付成功\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_fix",
+    "time" : {
+      "start" : 1653400825093,
+      "stop" : 1653400825094,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登陆",
+      "time" : {
+        "start" : 1653400825093,
+        "stop" : 1653400825094,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "'zz'"
+      }, {
+        "name" : "passwd",
+        "value" : "'123456'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  } ],
+  "testStage" : {
+    "description" : "\n        用例步骤：\n        1.登陆\n        2.浏览商品\n        3.添加购物车\n        4.生成订单\n        5.支付成功\n    ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "浏览商品",
+      "time" : {
+        "start" : 1653400825095,
+        "stop" : 1653400825095,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "添加商品到购物车",
+      "time" : {
+        "start" : 1653400825096,
+        "stop" : 1653400825096,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "goods_id",
+        "value" : "'10086'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "生成订单",
+      "time" : {
+        "start" : 1653400825097,
+        "stop" : 1653400825097,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "支付",
+      "time" : {
+        "start" : 1653400825097,
+        "stop" : 1653400825097,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "9fc551db5223422f",
+      "name" : "stdout",
+      "source" : "9fc551db5223422f.txt",
+      "type" : "text/plain",
+      "size" : 63
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_step"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-IT6V6FE6"
+  }, {
+    "name" : "thread",
+    "value" : "35096-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa486ad18f6af8a1.json",
+  "parameterValues" : [ ]
+}

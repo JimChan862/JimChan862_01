@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "29676-MainThread",
+      "children" : [ {
+        "name" : "测试购物流程",
+        "uid" : "fe71a5adcb0890ba",
+        "parentUid" : "d7b8f9da6c4faef61d80f230716a0c64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653400203894,
+          "stop" : 1653400203895,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7b8f9da6c4faef61d80f230716a0c64"
+    }, {
+      "name" : "24864-MainThread",
+      "children" : [ {
+        "name" : "测试购物流程",
+        "uid" : "438be5ea3fc059f0",
+        "parentUid" : "ce822e37c02f1b10a5a7949350f1e47a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653400534970,
+          "stop" : 1653400534971,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce822e37c02f1b10a5a7949350f1e47a"
+    }, {
+      "name" : "31000-MainThread",
+      "children" : [ {
+        "name" : "测试购物流程",
+        "uid" : "57148680d57bd8a",
+        "parentUid" : "4aeda7f94ffe83ecc0cf633e4e9ae1a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653400334604,
+          "stop" : 1653400334604,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4aeda7f94ffe83ecc0cf633e4e9ae1a8"
+    }, {
+      "name" : "14604-MainThread",
+      "children" : [ {
+        "name" : "测试购物流程",
+        "uid" : "2909fc3c893c133f",
+        "parentUid" : "a39f17a057d7feeaef46341105b42dff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653400439452,
+          "stop" : 1653400439453,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a39f17a057d7feeaef46341105b42dff"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

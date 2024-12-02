@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "4020-MainThread",
+      "children" : [ {
+        "name" : "test_case_3",
+        "uid" : "23a8f27f7b4945a4",
+        "parentUid" : "7a3f22c82bcd2cb988acacb4cf1ab12e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206856,
+          "stop" : 1653399206856,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询可用的商品",
+        "uid" : "b7b15155f6396402",
+        "parentUid" : "7a3f22c82bcd2cb988acacb4cf1ab12e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206852,
+          "stop" : 1653399206852,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑文章分类，重复保存，保存失败",
+        "uid" : "9c314ee6feb1c49d",
+        "parentUid" : "7a3f22c82bcd2cb988acacb4cf1ab12e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653399206847,
+          "stop" : 1653399206848,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a3f22c82bcd2cb988acacb4cf1ab12e"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure",
+    "children" : [ {
+      "name" : "TestEditPage",
+      "children" : [ {
+        "name" : "编辑文章分类，重复保存，保存失败",
+        "uid" : "a18c4f95c46ac3e7",
+        "parentUid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653397350892,
+          "stop" : 1653397350893,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "c6d1ac80b2cd3542",
+        "parentUid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653397350896,
+          "stop" : 1653397350897,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a75bcb38c2f3e1eed8acc53e22f7ef2"
+    } ],
+    "uid" : "fbee53df8487942ba5333ea9eebb3863"
+  } ]
+}

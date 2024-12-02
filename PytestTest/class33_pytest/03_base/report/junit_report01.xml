@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="1" skipped="0" tests="5" time="0.181"
+               timestamp="2022-05-19T21:25:20.258349" hostname="LAPTOP-IT6V6FE6">
+        <testcase classname="test_assert" name="test_kkk_01" time="0.001"/>
+        <testcase classname="test_assert" name="test_kkk_02" time="0.000">
+            <failure message="assert 1 == 2">def test_kkk_02():
+                print('kkk')
+                &gt; assert 1==2
+                E assert 1 == 2
+
+                test_assert.py:28: AssertionError
+            </failure>
+        </testcase>
+        <testcase classname="test_assert" name="test_zzz_03" time="0.000"/>
+        <testcase classname="doc.test_112233" name="test02" time="0.001"/>
+        <testcase classname="doc.test_112233.TestDemo" name="test_case_03" time="0.000"/>
+    </testsuite>
+</testsuites>
