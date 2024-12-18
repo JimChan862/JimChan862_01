@@ -1,0 +1,94 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "接口自动化测试",
+    "children" : [ {
+      "name" : "登录流程",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "918a4c1a29d1be47",
+        "parentUid" : "790aaa4aaf376698fcf67ae226e84dfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669910,
+          "stop" : 1655215669994,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "790aaa4aaf376698fcf67ae226e84dfd"
+    }, {
+      "name" : "获得个人信息流程",
+      "children" : [ {
+        "name" : "个人信息",
+        "uid" : "8e8c892c8c1677f",
+        "parentUid" : "dc6f2991b4380f584f96f9c14cdc958c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669996,
+          "stop" : 1655215670078,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc6f2991b4380f584f96f9c14cdc958c"
+    }, {
+      "name" : "选择商品流程",
+      "children" : [ {
+        "name" : "商品",
+        "uid" : "c535392a41e49402",
+        "parentUid" : "071309b7a0b18ed723f8a7773dd12493",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670080,
+          "stop" : 1655215670156,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "071309b7a0b18ed723f8a7773dd12493"
+    }, {
+      "name" : "添加购物车流程",
+      "children" : [ {
+        "name" : "购物车",
+        "uid" : "61f4d10587609197",
+        "parentUid" : "71fb000657340953f5ba424cb67e4bc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670157,
+          "stop" : 1655215670242,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71fb000657340953f5ba424cb67e4bc3"
+    }, {
+      "name" : "下单流程",
+      "children" : [ {
+        "name" : "下单",
+        "uid" : "321231592994fa76",
+        "parentUid" : "b000f0a3918122ea94c7bb5f97036745",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670244,
+          "stop" : 1655215670327,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b000f0a3918122ea94c7bb5f97036745"
+    } ],
+    "uid" : "5f98f187966760eef4118a808ba74bd5"
+  } ],
+  "name" : "behaviors"
+}

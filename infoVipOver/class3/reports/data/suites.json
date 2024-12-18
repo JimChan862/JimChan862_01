@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "test_py4",
+    "children" : [ {
+      "name" : "TestCase",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "918a4c1a29d1be47",
+        "parentUid" : "67c44ed13cc7dda6a7609c86c0d23d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669910,
+          "stop" : 1655215669994,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "个人信息",
+        "uid" : "8e8c892c8c1677f",
+        "parentUid" : "67c44ed13cc7dda6a7609c86c0d23d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669996,
+          "stop" : 1655215670078,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "商品",
+        "uid" : "c535392a41e49402",
+        "parentUid" : "67c44ed13cc7dda6a7609c86c0d23d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670080,
+          "stop" : 1655215670156,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "购物车",
+        "uid" : "61f4d10587609197",
+        "parentUid" : "67c44ed13cc7dda6a7609c86c0d23d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670157,
+          "stop" : 1655215670242,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "下单",
+        "uid" : "321231592994fa76",
+        "parentUid" : "67c44ed13cc7dda6a7609c86c0d23d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670244,
+          "stop" : 1655215670327,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "67c44ed13cc7dda6a7609c86c0d23d83"
+    } ],
+    "uid" : "179e3c9f790d1928e9ed349eff0243fa"
+  } ],
+  "name" : "suites"
+}

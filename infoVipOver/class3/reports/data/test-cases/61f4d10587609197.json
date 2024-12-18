@@ -1,0 +1,74 @@
+{
+  "uid" : "61f4d10587609197",
+  "name" : "购物车",
+  "fullName" : "test_py4.TestCase#test_cart",
+  "historyId" : "237c1607be3a90d3cab979971b3fbeb8",
+  "time" : {
+    "start" : 1655215670157,
+    "stop" : 1655215670242,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1655215669779,
+      "stop" : 1655215669909,
+      "duration" : 130
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "添加购物车流程"
+  }, {
+    "name" : "feature",
+    "value" : "接口自动化测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_py4"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7KEGP5JC"
+  }, {
+    "name" : "thread",
+    "value" : "103620-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_py4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61f4d10587609197.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "c535392a41e49402",
+  "name" : "商品",
+  "time" : {
+    "start" : 1655215670080,
+    "stop" : 1655215670156,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "918a4c1a29d1be47",
+  "name" : "登录",
+  "time" : {
+    "start" : 1655215669910,
+    "stop" : 1655215669994,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61f4d10587609197",
+  "name" : "购物车",
+  "time" : {
+    "start" : 1655215670157,
+    "stop" : 1655215670242,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "321231592994fa76",
+  "name" : "下单",
+  "time" : {
+    "start" : 1655215670244,
+    "stop" : 1655215670327,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e8c892c8c1677f",
+  "name" : "个人信息",
+  "time" : {
+    "start" : 1655215669996,
+    "stop" : 1655215670078,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

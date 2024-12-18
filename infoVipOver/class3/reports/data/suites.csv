@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 14 22:07:50 CST 2022","Tue Jun 14 22:07:50 CST 2022","76","","test_py4","TestCase","","","商品",""
+"passed","Tue Jun 14 22:07:49 CST 2022","Tue Jun 14 22:07:49 CST 2022","84","","test_py4","TestCase","","","登录",""
+"passed","Tue Jun 14 22:07:50 CST 2022","Tue Jun 14 22:07:50 CST 2022","85","","test_py4","TestCase","","","购物车",""
+"passed","Tue Jun 14 22:07:50 CST 2022","Tue Jun 14 22:07:50 CST 2022","83","","test_py4","TestCase","","","下单",""
+"passed","Tue Jun 14 22:07:49 CST 2022","Tue Jun 14 22:07:50 CST 2022","82","","test_py4","TestCase","","","个人信息",""

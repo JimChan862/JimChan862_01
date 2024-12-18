@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "LAPTOP-7KEGP5JC",
+    "children" : [ {
+      "name" : "103620-MainThread",
+      "children" : [ {
+        "name" : "商品",
+        "uid" : "c535392a41e49402",
+        "parentUid" : "2ba2b9e5283787042051b6b130a3b707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670080,
+          "stop" : 1655215670156,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "个人信息",
+        "uid" : "8e8c892c8c1677f",
+        "parentUid" : "2ba2b9e5283787042051b6b130a3b707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669996,
+          "stop" : 1655215670078,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "下单",
+        "uid" : "321231592994fa76",
+        "parentUid" : "2ba2b9e5283787042051b6b130a3b707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670244,
+          "stop" : 1655215670327,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "购物车",
+        "uid" : "61f4d10587609197",
+        "parentUid" : "2ba2b9e5283787042051b6b130a3b707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215670157,
+          "stop" : 1655215670242,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录",
+        "uid" : "918a4c1a29d1be47",
+        "parentUid" : "2ba2b9e5283787042051b6b130a3b707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655215669910,
+          "stop" : 1655215669994,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ba2b9e5283787042051b6b130a3b707"
+    } ],
+    "uid" : "869e5102e3698976f78424c1ea47ce3a"
+  } ],
+  "name" : "timeline"
+}
